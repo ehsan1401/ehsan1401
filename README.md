@@ -31,10 +31,6 @@ Frontend dev who codes, learns, and drinks too much coffee ☕
   <img src="https://img.shields.io/badge/MVC%20Architecture-4B8BBE?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDIgTDIgNkgydjExbDEwIDUgMTAtNSBWM0wxMiAyWk0xMiA5TDE0IDEwTDEyIDExTDEwIDEwTDEyIDlaIi8+PC9zdmc+" />
 </p>
 
-## 📊 GitHub Stats
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsan1401&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsan1401&show_icons=true&theme=tokyonight)
-
 ## 📬 Connect with Me  
 
 <p align="center">
