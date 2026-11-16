@@ -8,7 +8,6 @@ Frontend dev who codes, learns, and drinks too much coffee ☕
 
 💻 Front-end Developer | React & Next.js Enthusiast  
 🎯 Focused on building fast, beautiful, and modern web apps  
-📍 Based in Mashhad, Iran 
 
 ## ⚡ Tech Stack I Love Working With
 <p align="center">
